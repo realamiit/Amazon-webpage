@@ -23,12 +23,9 @@
     background-size: cover;
     height: 90%;
     width: 92px;
-    
-
 }
 .border{
-    border: 1px solid transparent;
-    
+    border: 1px solid transparent;  
 }
 
 .border:hover{
